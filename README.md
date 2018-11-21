@@ -1,10 +1,18 @@
 ## MultilevelFeedbackQueueSimulation
 
-[![MultilevelFeedbackQueueSimulation](https://img.shields.io/badge/MultilevelFeedbackQueueSimulation-v1.0.0-brightgreen.svg)](
+[![MultilevelFeedbackQueueSimulation](https://img.shields.io/badge/MultilevelFeedbackQueueSimulation-v1.1.0-brightgreen.svg)](
 https://github.com/Yuziquan/MultilevelFeedbackQueueSimulation)
-[![license](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/Yuziquan/MultilevelFeedbackQueueSimulation/blob/master/LICENSE)
+[![license](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/somelou/MultilevelFeedbackQueueSimulation/blob/master/LICENSE)
 
-> 详情移步：https://blog.csdn.net/wuchangi/article/details/80432794
+### 更新
+> * 更正了多级反馈队列调度算法(太懒了不想写...)
+> * 去除了几个不重要的按钮动作(可参照原项目添加回去)
+> * 不知道怎么请求合并
+
+
+*以下为原项目说明*
+
+> 原项目博客：https://blog.csdn.net/wuchangi/article/details/80432794
 
 ### 一、项目功能
 
